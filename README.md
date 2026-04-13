@@ -3,9 +3,10 @@
 Hệ thống chatbot thông minh hỗ trợ truy vấn và phân tích thông tin tài chính thời gian thực, tập trung vào dữ liệu chứng khoán từ Yahoo Finance. Dự án ứng dụng kiến trúc Agentic Workflow để tối ưu hóa khả năng ra quyết định và xử lý dữ liệu phức tạp.
 
 ## 👥 Thành viên thực hiện (Nhóm - IUH)
+
 | Họ và Tên | MSSV |
-| :--- | :--- | :--- |
-| **Lê Hà Tú My** | 22648801 | 
+| :--- | :--- |
+| **Lê Hà Tú My** | 22648801 |
 | **Phạm Văn Mạnh** | 22642071 |
 | **Nguyễn Quang Mạnh** | 22645001 |
 
