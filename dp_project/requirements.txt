@@ -1,0 +1,16 @@
+google-generativeai
+chromadb
+psycopg2-binary
+SQLAlchemy
+yfinance
+pandas
+ta
+pdfplumber
+Pillow
+gradio
+python-dotenv
+langgraph
+langchain-core 
+requests 
+beautifulsoup4 
+numpy 
