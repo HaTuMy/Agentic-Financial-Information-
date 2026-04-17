@@ -85,7 +85,5 @@ Hệ thống được thiết kế theo dạng đồ thị (Graph) giúp chatbot
 
 ## 📝 Ghi chú
 - Đảm bảo các file `.csv` và script `download_*.py` nằm đúng vị trí thư mục gốc như cấu trúc trên GitHub.
-- Dự án là một phần của môn học **Data Platform (HK8)** - Trường Đại học Công nghiệp TP.HCM.
+- Dự án là một phần của môn học **Data Platform** - Trường Đại học Công nghiệp TP.HCM.
 ```
-
----
